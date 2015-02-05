@@ -1,6 +1,8 @@
 DVIT.me odoo8
 =====
 
+[![Join the chat at https://gitter.im/atchuthan/dvit-odoo8](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/atchuthan/dvit-odoo8?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Various Odoo8 modules are contributed by DiamondVision DVIT.me http://dvit.me .
 
 
